@@ -1,7 +1,7 @@
 ### Go-Obsidian
 Dark Obsidian theme for Go-lang based on [Guomindang's config](https://www.reddit.com/r/golang/comments/3vgrwn/go_syntax_highlighting_and_builtin_function).
 
-1. Copy content of ![userDefineLang-Go-Obsidian.xml](notepad++/userDefineLang-Go-Obsidian.xml) between `<NotepadPlus>` tags into your `userDefineLang.xml` file.
-2. Copy ![go.xml](notepad++/plugins/APIs/go.xml?raw=true) into your `plugins\APIs` directory.
+1. Copy content of ![userDefineLang-Go-Obsidian.xml](userDefineLang-Go-Obsidian.xml) between `<NotepadPlus>` tags into your `userDefineLang.xml` file.
+2. Copy ![go.xml](plugins/APIs/go.xml?raw=true) into your `plugins\APIs` directory.
 
-![Obsidian Go](https://raw.githubusercontent.com/haikubox/configs/master/notepad%2B%2B/Go-Obsidian.png)
+![Obsidian Go](Go-Obsidian.png)
